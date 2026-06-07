@@ -19,8 +19,4 @@ A computer vision application that uses OpenCV and MediaPipe Pose Estimation to 
 ## Installation
 ```bash
 pip install -r requirements.txt
-## Run
 
-Open the notebook and execute all cells.
-
-Press `q` to quit the application.
